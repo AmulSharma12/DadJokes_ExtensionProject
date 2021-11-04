@@ -1,0 +1,10 @@
+1.) First File Create is ->  manifest.json
+2.)  manifest.json file with some properties your extension is ready
+3.) give extension name and version and manifest version
+4.) in chrome extension go to tools -> extensions -> developer mode -> load unpacked -> select file
+now extension ready you can pin it
+
+
+----------------------------------------------------------
+5.)now when you do something what happen it comes under browser action
+6.)also you can add permissions
